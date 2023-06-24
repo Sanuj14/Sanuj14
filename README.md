@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)(https://github.com/Sanuj14)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sanuj Dhote</h1>
 <h3 align="center">A passionate frontend/Backend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
