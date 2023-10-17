@@ -1,4 +1,4 @@
-[![An image of @sanuj14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanuj14)](https://holopin.io/@sanuj14)
+[![An image of @sanuj14's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanuj14)](https://holopin.io/@sanuj14)]
 <h1 align="center">Hi 👋, I'm Sanuj Dhote</h1>
 <h3 align="center">A passionate frontend/Backend developer from India</h3>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
